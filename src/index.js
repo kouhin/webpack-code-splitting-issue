@@ -1,4 +1,2 @@
-import {Toggle} from 'react-powerplug'
-console.log(Toggle)
-
-import('./chunk-b')
+import('./chunk1.js')
+import('./chunk2.js')
