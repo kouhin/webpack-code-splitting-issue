@@ -1,2 +1,2 @@
-import { Toggle } from 'react-powerplug';
-console.log(Toggle)
+import { HELLO } from './values';
+console.log(HELLO);

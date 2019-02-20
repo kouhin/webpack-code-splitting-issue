@@ -1,2 +1,2 @@
-import { Value } from 'react-powerplug';
-console.log(Value)
+import { WORLD } from './values';
+console.log(WORLD);
